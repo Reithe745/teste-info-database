@@ -4,5 +4,10 @@
       "ID": "0",
       "Login": "yuri",
       "dinheiro": 1000
+    },
+      {
+      "ID": "1",
+      "Login": "lego",
+      "dinheiro": 2000
     }]
 }  
